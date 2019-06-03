@@ -1,4 +1,3 @@
 readme
 "one more try"
-║╟нчадё╛нчад║╠
-"what the fuck"
+"more data"
