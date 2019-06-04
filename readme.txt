@@ -7,3 +7,4 @@ readme
 "some data"
 "stash"
 "git is  free software"
+"new work"
