@@ -6,3 +6,4 @@ readme
 "more data"
 "some data"
 "stash"
+"git is  free software"
