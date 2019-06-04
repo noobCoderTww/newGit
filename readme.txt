@@ -5,3 +5,4 @@ readme
 "wdnmd"
 "more data"
 "some data"
+"stash"
