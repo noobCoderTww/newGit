@@ -1,6 +1,6 @@
 readme
 "one more try"
-║╟нчадё╛нчад║╠
+"boring,boring"
 "what the fuck"
 "wdnmd"
 "more data"
@@ -8,3 +8,4 @@ readme
 "stash"
 "git is a free software"
 "new work"
+"more people test"
